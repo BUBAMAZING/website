@@ -38,6 +38,7 @@ body {
     font-family: cursive;
 }
 
+
 h1 {
     text-align: center;
     font-size: 25px;
@@ -71,4 +72,12 @@ h2 {
 }
 .link:hover{
     background-color:blue;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+.class:hover{
+    color:fuchsia;
 }
